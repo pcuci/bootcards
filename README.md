@@ -1,4 +1,4 @@
-bootcards
+pcuci:bootcards
 ========================
 
 Live demo: http://bootcards.meteor.com and [demo code](https://github.com/pcuci/bootcards-demo)
