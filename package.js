@@ -1,18 +1,18 @@
 Package.describe({
   name: 'pcuci:bootcards',
   summary: 'A cards-based UI with dual-pane capability for mobile and desktop, built on top of Bootstrap',
-  version: '1.0.0_2',
+  version: '1.0.0_4',
   git: 'https://github.com/pcuci/bootcards.git'
 });
 
 Package.on_use(function (api) {
   api.versionsFrom('METEOR@0.9.3');
-  api.use(['mizzao:bootstrap-3@3.3.0'], 'client');
+  api.use(['nemo64:bootstrap@3.3.0_1'], 'client');
 
   api.addFiles([
+    'bootcards/dist/css/bootcards-ios.min.css',
+    'bootcards/dist/css/bootcards-android.min.css',
     'bootcards/dist/css/bootcards-desktop.min.css',
-    //'bootcards/dist/css/bootcards-android.min.css',
-    //'bootcards/dist/css/bootcards-ios.min.css',
     'bootcards/dist/fonts/icomoon.eot',
     'bootcards/dist/fonts/icomoon.svg',
     'bootcards/dist/fonts/icomoon.ttf',

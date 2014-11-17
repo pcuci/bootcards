@@ -9,8 +9,12 @@
       "1.1.3"
     ],
     [
-      "mizzao:bootstrap-3",
-      "3.3.0"
+      "nemo64:bootstrap",
+      "3.3.0_1"
+    ],
+    [
+      "nemo64:bootstrap-data",
+      "3.3.0_1"
     ],
     [
       "underscore",
