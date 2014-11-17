@@ -5,10 +5,8 @@ A [Meteor](http://meteor.com) package for the popular [Bootcards](http://bootcar
 
 Bootcards v1.0.0
 
-Demo
-====
+# Bootcards Demo
 http://bootcards.bootstrap.com
 
-Demo Project
-============
+# Bootcards Demo Project
 https://github.com/pcuci/bootcards-demo
