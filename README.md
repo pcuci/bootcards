@@ -8,7 +8,7 @@ A [Meteor](http://meteor.com) package for the popular [Bootcards](http://bootcar
 Bootcards v1.0.0
 
 # Install
-In your Meteor project run:
+In your Meteor project run
 ```
 meteor add pcuci:bootcards
 ```
